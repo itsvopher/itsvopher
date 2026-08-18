@@ -1,17 +1,10 @@
 # Vopher
 
-building, breaking, learning why.
+**building, breaking, learning why.**
 
-I like making things, understanding how they work, and occasionally taking them apart just to see what happens.
+I like understanding how things work — and occasionally pulling them apart to find out.
 
-### currently
-
-* learning more about security
-* building small projects
-* improving at web development
-* following whatever catches my attention
-
-### interests
+Right now, I'm exploring **security**, **web development**, and whatever manages to keep me curious.
 
 `code` · `security` · `web` · `systems`
 
