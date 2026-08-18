@@ -1,16 +1,18 @@
-## Hi there 👋
+# Vopher
 
-<!--
-**itsvopher/itsvopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+building, breaking, learning why.
 
-Here are some ideas to get you started:
+I like making things, understanding how they work, and occasionally taking them apart just to see what happens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### currently
+
+* learning more about security
+* building small projects
+* improving at web development
+* following whatever catches my attention
+
+### interests
+
+`code` · `security` · `web` · `systems`
+
+> probably building something.
